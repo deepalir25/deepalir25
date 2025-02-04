@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there!
 
 
-**deepalir25/deepalir25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+- **Name**: Deepali
+- **Current Studies**: Dual master’s degree in AI & Business Analytics and Marketing at the University of South Florida.
+- **Skills**:
+  - Data analysis & visualization
+  - Social media marketing
+  - CRM & strategic planning
+  - Business analytics
+- **Passion**: Applying analytical strategies to solve real-world marketing challenges.
+- **Social Impact**: Committed to social welfare initiatives focusing on child education and healthcare for underprivileged communities.
+- **Collaborations**: Open to connecting and collaborating on innovative projects in the business and analytics space.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to connect with me and explore exciting possibilities together!
+
 
