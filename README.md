@@ -1,9 +1,9 @@
 ## Hi there!
 
 
-# About Me
+### About Me
 
-- **Name**: Deepali
+- This is Deepali Rajput.
 - **Current Studies**: Dual master’s degree in AI & Business Analytics and Marketing at the University of South Florida.
 - **Skills**:
   - Data analysis & visualization
