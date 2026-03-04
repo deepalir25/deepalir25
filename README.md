@@ -6,7 +6,7 @@
 - This is Deepali Rajput.
 - **Current Studies**: Dual master’s degree in AI & Business Analytics and Marketing at the University of South Florida.
 - **Skills**:
- 1. **Business Intelligence & Reporting:** SQL, Power BI (DAX, Row-Level Security), Tableau, Google Looker Studio, Qlik Sense, Excel, Dashboard Design, KPI Reporting, Stakeholder Management, Project Ownership
+ 1. **Business Intelligence & Reporting:** AI Prompting, AI Integrations, SQL, Power BI (DAX, Row-Level Security), Tableau, Google Looker Studio, Qlik Sense, Excel, Dashboard Design, KPI Reporting, Stakeholder Management, Project Ownership
  2. **Data Management & Advanced Analytics:** ETL Pipelines, Data Modeling, Data Validation, Data Analysis, Statistical Analysis, Python, R Programming, AI/ML Workflow Analysis
  3. **Business Analysis & Digital Strategy:** Market Research, SWOT Analysis, Competitor Analysis, Target Audience Segmentation, Budgeting, Google Analytics, HubSpot Analytics, Figma, Wix, Customer Surveys, Business Decks
 
