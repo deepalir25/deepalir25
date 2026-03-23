@@ -8,8 +8,8 @@
 - **Skills**:
  1. **Business Intelligence & Reporting:** AI Prompting, AI Integrations, SQL, Power BI (DAX, Row-Level Security), Python, Tableau, Google Looker Studio, Qlik Sense, Excel, Dashboard Design, KPI Reporting, Stakeholder Management, Project Ownership
  2. **Data Management & Advanced Analytics:** ETL Pipelines, Data Modeling, Data Validation, Data Analysis, Statistical Analysis, Python, R Programming, AI/ML Workflow Analysis
- 3. **Business Analysis & Digital Strategy:** Market Research, SWOT Analysis, Competitor Analysis, Target Audience Segmentation, Budgeting, Google Analytics, HubSpot Analytics, Figma, Wix, Customer Surveys, Business Decks
-
+ 3. **Business Analysis & Digital Strategy:** Market Research, SWOT Analysis, Competitor Analysis, Target Audience Segmentation, Budgeting, Google Analytics, HubSpot Analytics, Figma, Wix, Customer Surveys, Business Decks, UAT, Cross-Functional Collaboration, Requirements Documentation, Data-Driven Decision Making
+4. **Supply Chain & Operations:** Supplier Analytics, Process Improvement, Root Cause Analysis, Forecasting, Inventory Analysis
 - **Passion**: Applying analytical strategies to solve real-world marketing challenges.
 - **Social Impact**: Committed to social welfare initiatives focusing on child education and healthcare for underprivileged communities.
 - **Collaborations**: Open to connecting and collaborating on innovative projects in the business and analytics space.
